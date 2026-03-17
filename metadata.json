@@ -1,0 +1,5 @@
+{
+  "name": "Neurone Logico MCP",
+  "description": "Un'app interattiva per esplorare il funzionamento del neurone di McCulloch-Pitts e la rete del freddo paradossale.",
+  "requestFramePermissions": []
+}
